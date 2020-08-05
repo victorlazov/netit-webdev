@@ -27,8 +27,9 @@ Syntax highlighted code block
 
 e.g.
 
-[test](/test)
+[test](/test) beforehand you will need to create **test.md** file in the root of the repository.
 ```
+[test page](/test)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
