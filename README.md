@@ -27,9 +27,10 @@ Syntax highlighted code block
 
 e.g.
 
-[test](/test) beforehand you will need to create **test.md** file in the root of the repository.
+[test](test) beforehand you will need to create **test.md** file in the root of the repository.
+The paths are best to be relative, not absolute.
 ```
-[test page](/test)
+[test page](test)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
